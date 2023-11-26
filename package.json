@@ -1,6 +1,6 @@
 {
   "name": "soundClient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple electron based client for Soundcloud.",
   "main": "main.js",
   "scripts": {

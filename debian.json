@@ -1,6 +1,6 @@
 {
   "dest": "./dist",
-  "icon": "./icon.png",
+  "icon": "./icon2.png",
   "categories": ["Audio", "Music"],
   "lintianOverrides": ["changelog-file-missing-in-native-package"],
   "maintainer": "Vinzent Maier <vinzent-j.maier@t–online.de>"
