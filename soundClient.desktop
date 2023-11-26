@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SoundCloud Client
+Exec=SCLIENT_PATH/soundcloud-client
+Icon=SCLIENT_PATH/icon.png
+Type=Application
+Categories=Audio;Music;
+Comment=A simple SoundCloud Client for Linux
+Terminal=false
