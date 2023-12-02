@@ -1,6 +1,6 @@
-# SoundClient
+# soundclient
 
-SoundClient is a simple, unofficial, Electron-based desktop client for accessing SoundCloud (per web interface). It provides a streamlined and dedicated window for SoundCloud, enhancing your music listening experience on desktop environments.
+`soundclient` is a simple, unofficial, Electron-based desktop client for accessing SoundCloud (per web interface). It provides a streamlined and dedicated window for SoundCloud, enhancing your music listening experience on desktop environments.
 
 
 ## Features
@@ -13,7 +13,7 @@ SoundClient is a simple, unofficial, Electron-based desktop client for accessing
 
 ### Debian/Ubuntu (`.deb` Package)
 
-1. Download the `.deb` file from the [latest release](https://github.com/yourusername/soundClient/releases).
+1. Download the `.deb` file from the latest release (...if provided)
 2. Install the package using:
 
    ```bash
@@ -26,7 +26,7 @@ SoundClient is a simple, unofficial, Electron-based desktop client for accessing
    sudo apt-get install -f
    ```
 
-3. Launch SoundClient from your application menu or using the command `soundClient`.
+3. Launch soundclient from your application menu or using the command `soundClient`.
 
 ### Building from Source
 
@@ -40,8 +40,8 @@ SoundClient is a simple, unofficial, Electron-based desktop client for accessing
 1. Clone the Repository:
    
    ```bash
-   git clone https://github.com/yourusername/soundClient.git
-   cd soundClient
+   git clone https://github.com/VeniVidiVinzi/soundclient
+   cd soundclient
    ```
 
 2. Install Dependencies:
@@ -65,7 +65,7 @@ SoundClient is a simple, unofficial, Electron-based desktop client for accessing
    Navigate to the `dist` directory and install the `.deb` package:
 
    ```bash
-   sudo dpkg -i soundClient_1.0.0_amd64.deb
+   sudo dpkg -i soundclient_1.0.0_amd64.deb
    ```
 
    Fix any dependency issues:
@@ -76,18 +76,18 @@ SoundClient is a simple, unofficial, Electron-based desktop client for accessing
 
 ## Usage
 
-After installation, you can start SoundClient from your application menu or via the command line:
+After installation, you can start soundclient from your application menu or via the command line:
 
 ```bash
-soundClient
+soundclient
 ```
 
 The application will open a dedicated window for SoundCloud, allowing you to listen to your favorite tracks without the need for a web browser.
 
 ## Contributing
 
-Contributions to SoundClient are welcome! Feel free to report issues or submit pull requests.
+Contributions to soundclient are welcome! Feel free to report issues or submit pull requests.
 
 ## License
 
-SoundClient is released under the ISC License. See the LICENSE file for more details.
+soundclient is released under the ISC License. See the LICENSE file for more details.
